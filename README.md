@@ -1,63 +1,79 @@
-# 👋 Hi there, I'm Jeevan Aher!
+# 👋 Hello, I'm Jeevan Aher!
 
-Welcome to my GitHub profile! I'm a Master's student in **Computer Science** at the **University of Illinois at Springfield** with a passion for Artificial Intelligence, Machine Learning, and Data Engineering. I enjoy solving real-world problems through innovative projects and cutting-edge technology.
+Welcome to my GitHub profile! I'm a Master's student in **Computer Science** at the **University of Illinois at Springfield**, with a passion for **Artificial Intelligence**, **Machine Learning**, **Data Engineering**, and **Full-Stack Development**. I love creating impactful solutions using cutting-edge technology.
 
 ---
 
 ## 🚀 About Me
-- 🌱 **Current Focus**: AI/ML, NLP, and Data Engineering
-- 🎓 **Education**:
-  - **M.S. in Computer Science** (Expected 2026) - University of Illinois at Springfield
-  - **B.E. in Computer Science with Honors in Data Science** (2024) - PVGCOE
-- 🏆 **Leadership**: President of the Student Association (ACES) during undergrad
-- 📍 **Location**: Illinois, USA
-- 🎯 **Career Goals**: To create impactful solutions at the intersection of AI, engineering, and data-driven technologies.
+🌟 **Current Focus**: AI/ML, NLP, Data Engineering, and Full-Stack Development  
+🎓 **Education**:  
+  - **M.S. in Computer Science** (Expected 2026) - University of Illinois at Springfield  
+  - **B.E. in Computer Science with Honors in Data Science** (2024) - PVGCOE  
+💼 **Leadership**: President of the Student Association (ACES) during undergrad  
+📍 **Location**: Illinois, USA  
+🎯 **Career Goals**: Innovate at the intersection of AI, data-driven engineering, and IoT to build impactful solutions.
 
 ---
 
 ## 🛠 Skills & Technologies
-- **Programming**: Python, Java, C++, SQL, HTML/CSS
-- **AI/ML Frameworks**: TensorFlow, PyTorch, Scikit-learn, Keras
-- **Data Engineering**: Apache Spark, Hadoop, Talend, AWS Glue
-- **Databases**: MySQL, PostgreSQL, MongoDB, Redis
-- **Visualization Tools**: Power BI, Matplotlib, Seaborn
-- **Cloud Platforms**: Azure Cloud
-- **Other Skills**: NLP, Deep Learning, CI/CD, Agile Methodologies
+### **Programming Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML/CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+### **Frameworks & Tools**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+### **Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### **Other Tools & Skills**
+- **NLP Tools**: MAXQDA, Pandas, NumPy  
+- **Visualization**: Matplotlib, Seaborn  
+- **Cloud Platforms**: Azure Cloud  
+- **Methodologies**: CI/CD, Agile, RESTful APIs, Software Development Life Cycle (SDLC)  
 
 ---
 
-## 🌟 Notable Projects
+## 🌟 Featured Projects
 ### [Cold Mail Automation](https://github.com/whitedevil7321/Gen-Ai-cold-Email-generator-generator)
-- Built LSTM models using TensorFlow for sentiment classification.
-- Deployed a Python-Streamlit app that aligns job descriptions to services, saving ~10 hours weekly.
+📌 **Description**: Built an AI-powered system using LSTM and NLP techniques for sentiment classification and text preprocessing.  
+🚀 **Impact**: Enhanced outreach efficiency by automating job description matching, saving ~10 hours weekly.  
 
 ### [ElderlyConnect](https://github.com/whitedevil7321/Elderly-Connect)
-- Developed a platform connecting elders with volunteers for video calls and event scheduling.
-- Integrated YOLO-based real-time emotion recognition.
-- Finalist in **HackX 2023** (Top 2,500 entries).
+📌 **Description**: A platform connecting elders with volunteers for video calls and event scheduling.  
+🌟 **Achievements**: Finalist in **HackX 2023** (Top 2,500 entries).  
+💡 **Technologies**: Flutter, YOLO for real-time emotion recognition.  
 
 ### [Car Security & Bike Crash Detection](https://github.com/whitedevil7321/Car-Security-Bike-Crash-Detection)
-- Designed an IoT-based vehicle safety system with real-time location tracking.
-- Developed a Flutter app for collision detection and instant notifications.
+📌 **Description**: Designed an IoT-based vehicle safety system with real-time tracking and collision detection.  
+🚨 **Features**: Instant notifications for unauthorized access and crash alerts.
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
 ### **AI Engineer Intern** @ Pentech Solutions
-- Developed a Speech Emotion Recognition model with LSTM, improving customer support responsiveness by 30%.
+- Developed a Speech Emotion Recognition model using LSTM, improving customer support responsiveness by 30%.
+- Processed over 10,000 voice samples for real-world emotion detection.
 
 ### **Data Engineer Intern** @ Celebal Technologies
-- Built robust data pipelines using Apache Spark and Hadoop, reducing processing time by 30%.
-- Integrated datasets using Apache Kafka and AWS Glue for critical reporting.
+- Designed robust data pipelines with Apache Spark and Hadoop, reducing processing time by 30%.
+- Integrated datasets with tools like Apache Kafka and AWS Glue for critical reporting.
 
 ### **AI Intern** @ SNWN Tech Solutions
-- Built LSTM-based sentiment classification models using TensorFlow and Keras.
-- Preprocessed datasets with Pandas and visualized insights using Matplotlib and Seaborn.
-
----
-
-## 📊 GitHub Stats
-![Jeevan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=whitedevil7321&show_icons=true&theme=radical)
+- Built sentiment classification models using TensorFlow and Keras.
+- Preprocessed datasets and visualized insights using Matplotlib and Seaborn.
 
 ---
 
@@ -68,4 +84,4 @@ Welcome to my GitHub profile! I'm a Master's student in **Computer Science** at 
 
 ---
 
-Feel free to explore my repositories and connect with me for collaboration or opportunities!
+Feel free to explore my repositories and reach out for collaborations or opportunities. Let’s build something amazing together!
