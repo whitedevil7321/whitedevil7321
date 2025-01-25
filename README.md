@@ -47,33 +47,23 @@ Welcome to my GitHub profile! I'm a Master's student in **Computer Science** at 
 ---
 
 ## 🌟 Featured Projects
+### [MonoGPT](https://github.com/whitedevil7321/MonoGPT)
+📌 **Description**: Replicated GPT-2 Transformer architecture from scratch, building a custom Large Language Model (LLM) with 12 Transformer blocks and 124M parameters.  
+💡 **Technologies**: Python, TensorFlow, PyTorch  
+🚀 **Achievements**: Achieved 30% increased inference speed using advanced sampling techniques like top-k sampling, optimized with pretrained GPT-2 weights, and planned fine-tuning using LoRA/QLoRA.
+
 ### [Cold Mail Automation](https://github.com/whitedevil7321/Gen-Ai-cold-Email-generator-generator)
 📌 **Description**: Built an AI-powered system using LSTM and NLP techniques for sentiment classification and text preprocessing.  
-🚀 **Impact**: Enhanced outreach efficiency by automating job description matching, saving ~10 hours weekly.  
+🚀 **Impact**: Enhanced outreach efficiency by automating job description matching, saving ~10 hours weekly.
 
 ### [ElderlyConnect](https://github.com/whitedevil7321/Elderly-Connect)
 📌 **Description**: A platform connecting elders with volunteers for video calls and event scheduling.  
 🌟 **Achievements**: Finalist in **HackX 2023** (Top 2,500 entries).  
-💡 **Technologies**: Flutter, YOLO for real-time emotion recognition.  
+💡 **Technologies**: Flutter, YOLO for real-time emotion recognition.
 
 ### [Car Security & Bike Crash Detection](https://github.com/whitedevil7321/Car-Security-Bike-Crash-Detection)
 📌 **Description**: Designed an IoT-based vehicle safety system with real-time tracking and collision detection.  
 🚨 **Features**: Instant notifications for unauthorized access and crash alerts.
-
----
-
-## 💼 Professional Experience
-### **AI Engineer Intern** @ Pentech Solutions
-- Developed a Speech Emotion Recognition model using LSTM, improving customer support responsiveness by 30%.
-- Processed over 10,000 voice samples for real-world emotion detection.
-
-### **Data Engineer Intern** @ Celebal Technologies
-- Designed robust data pipelines with Apache Spark and Hadoop, reducing processing time by 30%.
-- Integrated datasets with tools like Apache Kafka and AWS Glue for critical reporting.
-
-### **AI Intern** @ SNWN Tech Solutions
-- Built sentiment classification models using TensorFlow and Keras.
-- Preprocessed datasets and visualized insights using Matplotlib and Seaborn.
 
 ---
 
